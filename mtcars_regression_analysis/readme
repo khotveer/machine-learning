@@ -1,0 +1,2 @@
+ predicting mpg(milage per gallan) using other features like 'cylinders' , 'displacement', 'horsepower', 'weight',
+'acceleration', etc.  
