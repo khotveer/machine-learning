@@ -1,0 +1,13 @@
+Logistic Regression:
+
+Logistic regression uses an equation as the representation, very much like linear regression.
+
+Input values (x) are combined linearly using weights or coefficient values (referred to as the Greek capital letter Beta) to predict an output value (y). A key difference from linear regression is that the output value being modeled is a binary values (0 or 1) rather than a numeric value.
+
+Below is an example logistic regression equation:
+
+y = e^(b0 + b1*x) / (1 + e^(b0 + b1*x))
+
+Where y is the predicted output, b0 is the bias or intercept term and b1 is the coefficient for the single input value (x). Each column in your input data has an associated b coefficient (a constant real value) that must be learned from your training data.
+
+The actual representation of the model that you would store in memory or in a file are the coefficients in the equation (the beta value or b’s).
