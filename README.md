@@ -1,2 +1,2 @@
 # machine-learning
-different machine learning algorithms implemented using python
+Different machine learning algorithms implemented using python.
